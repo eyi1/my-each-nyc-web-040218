@@ -6,9 +6,9 @@ if block_given?
       yield(words[i])
       i=i+1
     end
-  words = words[i]
+  [words[i]]
 end
-words.to_a
+
   # put argument(s) here
   #code here
 end
