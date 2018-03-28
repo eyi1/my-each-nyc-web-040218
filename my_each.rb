@@ -12,4 +12,3 @@ end
   # code here
 end
 
-my_each (words) {|word| puts word}
