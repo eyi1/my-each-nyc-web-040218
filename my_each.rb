@@ -32,7 +32,7 @@ end
 end
 
 
-  def my_each(&prc)
+  def my_each(self)
     result_array = []
     idx = 0
     while idx < self.length
