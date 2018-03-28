@@ -12,6 +12,4 @@ end
   # code here
 end
 
-my_each (words) do |word|
-  puts word
-end
+words.my_each
