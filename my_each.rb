@@ -12,4 +12,3 @@ end
   # code here
 end
 
-words.my_each
