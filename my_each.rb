@@ -6,12 +6,10 @@ if block_given?
       yield(words[i])
       i=i+1
     end
-  my_each
+  puts my_each
 end
   # put argument(s) here
   # code here
 end
 
-my_each(words) do |word|
-         puts word
-       end
+
