@@ -7,7 +7,7 @@ if block_given?
       yield(words[i])
       i=i+1
     end
-  new.push(words[i])
+  words[i]
 end
 
   # put argument(s) here
