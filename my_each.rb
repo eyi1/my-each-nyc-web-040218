@@ -12,6 +12,6 @@ def my_each (array)
   # code here
 end
 
-my_each(collection) do |word|
-  puts word 
+my_each(array) do |word|
+  puts word
 end
