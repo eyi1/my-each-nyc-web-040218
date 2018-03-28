@@ -12,6 +12,6 @@ end
   # code here
 end
 
-my_each (words) do |word|
+my_each (array) do |word|
   puts word
 end
