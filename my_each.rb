@@ -12,4 +12,4 @@ end
   # code here
 end
 
-my_each {|i| puts i}
+my_each (words) {|word| puts word}
