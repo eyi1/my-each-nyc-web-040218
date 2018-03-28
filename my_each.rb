@@ -13,6 +13,5 @@ end
 end
 
 my_each (words) do |word|
-  puts word 
+  puts word
 end
-
