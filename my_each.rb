@@ -9,5 +9,5 @@ if block_given?
   words[i]
 end
   # put argument(s) here
-  my_each# code here
+  #code here
 end
