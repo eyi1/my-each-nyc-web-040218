@@ -10,6 +10,6 @@ if block_given?
   words[i]
 end
 
-  # put argument(s) here
+  words.to_a# put argument(s) here
   #code here
 end
