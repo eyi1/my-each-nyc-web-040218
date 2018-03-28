@@ -11,3 +11,5 @@ end
   # put argument(s) here
   # code here
 end
+
+my_each {|i| puts i}
