@@ -6,7 +6,7 @@ if block_given?
       yield(words[i])
       i=i+1
     end
-  puts my_each
+  my_each
 end
   # put argument(s) here
   # code here
