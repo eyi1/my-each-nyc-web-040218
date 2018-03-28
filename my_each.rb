@@ -7,6 +7,7 @@ if block_given?
       i=i+1
     end
   words[i]
+  my_each
 end
   # put argument(s) here
   # code here
