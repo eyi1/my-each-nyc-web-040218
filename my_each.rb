@@ -6,7 +6,7 @@ if block_given?
       yield(words[i])
       i=i+1
     end
-  words[i].to_a
+  my_each.to_a
 end
   # put argument(s) here
   #code here
