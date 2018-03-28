@@ -12,3 +12,6 @@ end
   # code here
 end
 
+words.my_each do |word|
+  puts words
+end
